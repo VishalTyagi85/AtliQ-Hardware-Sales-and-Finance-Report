@@ -75,6 +75,13 @@ A comprehensive Excel-based project that analyzes AtliQ Hardware's sales and fin
 - Structured approach to project planning  
 
 ---
+## 📊 Data Model View (Power Pivot)
+
+[![Data Model View](https://i.postimg.cc/zDLPGKV0/Screenshot-2025-05-06-101014.png)](https://postimg.cc/G9CjMBPy)
+
+*Power Pivot model showing relationships between Fact and Dimension tables enabling dynamic insights and clean report building.*
+
+---
 
 ## 📂 Repository Contents
 
