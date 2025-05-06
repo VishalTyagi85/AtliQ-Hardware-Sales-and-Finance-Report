@@ -11,8 +11,8 @@ A comprehensive Excel-based project that analyzes AtliQ Hardware's sales and fin
 2. [Compare market performance against sales targets](https://github.com/VishalTyagi85/AtliQ-Hardware-Sales-and-Finance-Report/blob/main/Market%20Performance%20Report.pdf)
 
 ### 🔹 Finance Report
-1. [Create Profit and Loss (P&L) reports by Fiscal Year & Months](https://github.com/VishalTyagi85/AtliQ-Hardware-Sales-and-Finance-Report/blob/main/P%26L%20By%20Fiscal%20Year.pdf), [P&L by Months](https://github.com/VishalTyagi85/AtliQ-Hardware-Sales-and-Finance-Report/blob/main/AtliQ%20P%26L%20By%20Months.pdf)
-2. [Generate P&L insights by different Markets](https://github.com/VishalTyagi85/AtliQ-Hardware-Sales-and-Finance-Report/blob/main/AtliQ%20P%26L%20By%20Months.pdf)
+1. [Create Profit and Loss (P&L) reports by Fiscal Year ](https://github.com/VishalTyagi85/AtliQ-Hardware-Sales-and-Finance-Report/blob/main/P%26L%20By%20Fiscal%20Year.pdf), [P&L by Months](https://github.com/VishalTyagi85/AtliQ-Hardware-Sales-and-Finance-Report/blob/main/AtliQ%20P%26L%20By%20Months.pdf)
+2. [Profit and Loss (P&L) reports by Months](https://github.com/VishalTyagi85/AtliQ-Hardware-Sales-and-Finance-Report/blob/main/AtliQ%20P%26L%20By%20Months.pdf)
 
 ---
 
